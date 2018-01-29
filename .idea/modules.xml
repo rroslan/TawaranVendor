@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Code\AndroidStudioProjects\project\TawaranVendor\Tawaran.iml" filepath="D:\Code\AndroidStudioProjects\project\TawaranVendor\Tawaran.iml" />
+      <module fileurl="file://D:\Code\AndroidStudioProjects\vendor\TawaranVendor.iml" filepath="D:\Code\AndroidStudioProjects\vendor\TawaranVendor.iml" />
+      <module fileurl="file://D:\Code\AndroidStudioProjects\Tawaran\Uber.iml" filepath="D:\Code\AndroidStudioProjects\Tawaran\Uber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/TawaranVendor/app/app.iml" filepath="$PROJECT_DIR$/../project/TawaranVendor/app/app.iml" />
+      <module fileurl="file://D:\Code\AndroidStudioProjects\vendor\app\app.iml" filepath="D:\Code\AndroidStudioProjects\vendor\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor.iml" filepath="$PROJECT_DIR$/vendor.iml" />
+    </modules>
+  </component>
+</project>
