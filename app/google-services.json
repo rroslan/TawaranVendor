@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "563924514617",
+    "firebase_url": "https://tawaran-laju.firebaseio.com",
+    "project_id": "tawaran-laju",
+    "storage_bucket": "tawaran-laju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563924514617:android:51bdd9ed519b9b5a",
+        "android_client_info": {
+          "package_name": "biz.eastservices.tawaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563924514617-6bjea8cmbmvu7g9d7ds8b0tk9eaf8lnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tawaran",
+            "certificate_hash": "e9bc54a3b81e6fc8137709e1bc7ee384f6c2bcb1"
+          }
+        },
+        {
+          "client_id": "563924514617-6vhrc9ko3n79nueov4lmdbsng5qjm4sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tawaran",
+            "certificate_hash": "7eb7f2de55df92cb8db83f837bdb7bd4e05523da"
+          }
+        },
+        {
+          "client_id": "563924514617-k32ptgucfhpc1s8c6q5mj5qn7jlob03k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_J5y6Yw09x1IH1HIrh7mMitbiXwlrIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563924514617-k32ptgucfhpc1s8c6q5mj5qn7jlob03k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563924514617:android:bdafa667d4ab7823",
+        "android_client_info": {
+          "package_name": "biz.eastservices.tawaranlaju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563924514617-fi59d3plm5g8ia5rvj84gc0tdps8kond.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tawaranlaju",
+            "certificate_hash": "e9bc54a3b81e6fc8137709e1bc7ee384f6c2bcb1"
+          }
+        },
+        {
+          "client_id": "563924514617-dp9bhudmrupe0i20ucugg468ph5ofa1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tawaranlaju",
+            "certificate_hash": "7eb7f2de55df92cb8db83f837bdb7bd4e05523da"
+          }
+        },
+        {
+          "client_id": "563924514617-k32ptgucfhpc1s8c6q5mj5qn7jlob03k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_J5y6Yw09x1IH1HIrh7mMitbiXwlrIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563924514617-k32ptgucfhpc1s8c6q5mj5qn7jlob03k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
